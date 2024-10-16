@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#E07083"/> <!-- Color cuando se presiona el botón -->
+            <corners android:radius="16dp"/> <!-- Bordes curvos -->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#d82f4b"/> <!-- Color normal del botón -->
+            <corners android:radius="16dp"/> <!-- Bordes curvos -->
+        </shape>
+    </item>
+</selector>

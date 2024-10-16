@@ -1,0 +1,19 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/white"/> <!-- Color de fondo -->
+
+    <corners android:radius="16dp"/> <!-- Borde curvado -->
+
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/darker_gray"/> <!-- Color y ancho del borde -->
+
+    <padding
+        android:left="12dp"
+        android:top="12dp"
+        android:right="12dp"
+        android:bottom="12dp"/> <!-- Espaciado interno -->
+
+    <size
+        android:width="0dp"
+        android:height="48dp"/> <!-- Altura mínima del campo -->
+</shape>

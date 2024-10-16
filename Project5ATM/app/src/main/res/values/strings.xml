@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project5ATM</string>
+    <string-array name="conversionOptions">
+        <item>Soles a Dolares</item>
+        <item>Dolares a Soles</item>
+    </string-array>
+</resources>
