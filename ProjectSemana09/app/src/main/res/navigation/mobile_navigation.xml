@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_ejercicio1">
+
+    <fragment
+        android:id="@+id/navigation_ejercicio1"
+        android:name="com.example.projectsemana09.Ejercicio1Fragment"
+        android:label="Ejercicio 1"
+        tools:layout="@layout/fragment_ejercicio1" />
+
+    <fragment
+        android:id="@+id/navigation_ejercicio2"
+        android:name="com.example.projectsemana09.Ejercicio2Fragment"
+        android:label="Ejercicio 2"
+        tools:layout="@layout/fragment_ejercicio2" />
+
+    <fragment
+        android:id="@+id/navigation_ejercicio3"
+        android:name="com.example.projectsemana09.Ejercicio3Fragment"
+        android:label="Ejercicio 3"
+        tools:layout="@layout/fragment_ejercicio3" />
+
+    <fragment
+        android:id="@+id/navigation_ejercicio4"
+        android:name="com.example.projectsemana09.Ejercicio4Fragment"
+        android:label="Ejercicio 3"
+        tools:layout="@layout/fragment_ejercicio4" />
+
+    <fragment
+        android:id="@+id/navigation_ejercicio5"
+        android:name="com.example.projectsemana09.Ejercicio5Fragment"
+        android:label="Ejercicio 3"
+        tools:layout="@layout/fragment_ejercicio5" />
+</navigation>

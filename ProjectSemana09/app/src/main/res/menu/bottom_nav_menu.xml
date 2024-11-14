@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ejercicio1"
+        android:icon="@drawable/baseline_question_mark_24"
+        android:title="Ejercicio 1" />
+
+    <item
+        android:id="@+id/navigation_ejercicio2"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Ejercicio 2" />
+
+    <item
+        android:id="@+id/navigation_ejercicio3"
+        android:icon="@drawable/baseline_area_chart_24"
+        android:title="Ejercicio 3" />
+
+    <item
+        android:id="@+id/navigation_ejercicio4"
+        android:icon="@drawable/baseline_calendar_today_24"
+        android:title="Ejercicio 4" />
+
+    <item
+        android:id="@+id/navigation_ejercicio5"
+        android:icon="@drawable/baseline_fact_check_24"
+        android:title="Ejercicio 5" />
+
+</menu>
